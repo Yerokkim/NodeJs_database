@@ -1,0 +1,13 @@
+{
+  "name": "GuestBook",
+  "version": "0.0.0",
+  "private":true,
+  "dependencies":{
+	  "express":"*",
+		"ejs":"*",
+		"body-parser":"*",
+		"express-session":"*",
+		"mysql":"*"
+
+	  }
+  }
